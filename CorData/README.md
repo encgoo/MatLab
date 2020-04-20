@@ -1,5 +1,6 @@
 # CorData
 This is a MatLab App that fetches corona-19 data from [data.world](https://data.world/covid-19-data-resource-hub/covid-19-case-counts) (Johns Hopkins data). 
+![app](images/show_data.png)
 
 ## Component
 A MatLab [app file](CorData.mlapp) and a [config](app_config.m) file. Pull these two files to a folder.

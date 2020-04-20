@@ -7,10 +7,10 @@ A MatLab [app file](CorData.mlapp) and a [config](app_config.m) file. Pull these
 The config file contains configuration data for tuning the App.
 
 ## Usage
-Before you can use this App the first time, you need to edit the 
+Before you can use this App the first time, you need to edit the config file.
 ### Config file
-There is a one-time setup step to get a free api key from data.world.
-Get a free data.world apikey first. Goto [data.work](https://data.world/covid-19-data-resource-hub/covid-19-case-counts).
+There is a one-time setup step to get a free api key from data.world first.
+Go to [data.work](https://data.world/covid-19-data-resource-hub/covid-19-case-counts).
 ![data_world](images/data_world.png)
 Click "Join to view this file". 
 Select one way to join data.world from the popped up dialog. 

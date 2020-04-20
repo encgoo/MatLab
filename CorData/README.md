@@ -35,6 +35,7 @@ Note that the checkbox of "show normal distribution fit" has been checked to sho
 
 Also select other country/state to view other data.
 
-
+## Summary
+The whole app contains only ~250 lines handwritten code. This shows strong support from MatLab that can greatly simplify the development job.
  
 

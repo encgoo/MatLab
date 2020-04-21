@@ -1,5 +1,5 @@
-#SlFitNormDist
-This is a MatLab Simulink model that plots Corona data from a csv file, and fits it to a normal distribution. 
+# SlFitNormDist
+This is a MatLab Simulink [model](FitNormalDist.slx) that plots Corona data from a csv file, and fits it to a normal distribution. 
 ![data_fit](images/DataFit.png)
 
 The Simulink model contains
